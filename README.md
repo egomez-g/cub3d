@@ -25,7 +25,7 @@ cub3D es un proyecto inspirado en el legendario juego **Wolfenstein 3D**, el pri
 ## Instalación
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/cub3D.git
+   git clone https://github.com/egomez-g/cub3d.git
    cd cub3D
    ```
 2. Compilar el proyecto:
